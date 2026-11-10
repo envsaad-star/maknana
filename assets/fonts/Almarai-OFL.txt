@@ -1,0 +1,8 @@
+Almarai
+Copyright (c) 2019 by Almarai. All rights reserved.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at: https://openfontlicense.org
+
+The web files in this folder (almarai-arabic-300/400/700/800.woff2) are subsets of the original
+fonts, limited to the Arabic script, made for this website.
